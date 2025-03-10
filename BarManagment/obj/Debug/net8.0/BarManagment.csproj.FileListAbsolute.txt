@@ -1,0 +1,14 @@
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\bin\Debug\net8.0\BarManagment.exe
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\bin\Debug\net8.0\BarManagment.deps.json
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\bin\Debug\net8.0\BarManagment.runtimeconfig.json
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\bin\Debug\net8.0\BarManagment.dll
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\bin\Debug\net8.0\BarManagment.pdb
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.AssemblyInfoInputs.cache
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.AssemblyInfo.cs
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.csproj.CoreCompileInputs.cache
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.dll
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\refint\BarManagment.dll
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.pdb
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\BarManagment.genruntimeconfig.cache
+C:\Users\Гагарь\source\repos\BarManagment\BarManagment\obj\Debug\net8.0\ref\BarManagment.dll

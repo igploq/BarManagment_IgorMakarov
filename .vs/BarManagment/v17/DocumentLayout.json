@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\cocktailcomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\cocktailcomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\createmix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\createmix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|c:\\users\\\u0433\u0430\u0433\u0430\u0440\u044C\\source\\repos\\barmanagment\\barmanagment\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B8F35-4206-4FF9-96D0-A6395E494E05}|BarManagment\\BarManagment.csproj|solutionrelative:barmanagment\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMix.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\CreateMix.cs",
+              "RelativeDocumentMoniker": "BarManagment\\CreateMix.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\CreateMix.cs",
+              "RelativeToolTip": "BarManagment\\CreateMix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:23:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CocktailComposition.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\CocktailComposition.cs",
+              "RelativeDocumentMoniker": "BarManagment\\CocktailComposition.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\CocktailComposition.cs",
+              "RelativeToolTip": "BarManagment\\CocktailComposition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:23:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Drink.cs",
+              "RelativeDocumentMoniker": "BarManagment\\Drink.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Drink.cs",
+              "RelativeToolTip": "BarManagment\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:22:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "BarManagment\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\LoginSystem.cs",
+              "RelativeToolTip": "BarManagment\\LoginSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:21:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\User.cs",
+              "RelativeDocumentMoniker": "BarManagment\\User.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\User.cs",
+              "RelativeToolTip": "BarManagment\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:20:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Bar.cs",
+              "RelativeDocumentMoniker": "BarManagment\\Bar.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Bar.cs",
+              "RelativeToolTip": "BarManagment\\Bar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:19:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Program.cs",
+              "RelativeDocumentMoniker": "BarManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0430\u0433\u0430\u0440\u044C\\source\\repos\\BarManagment\\BarManagment\\Program.cs",
+              "RelativeToolTip": "BarManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:19:08.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
